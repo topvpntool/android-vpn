@@ -10,7 +10,7 @@
 
 > - 1.[StrongVPN](https://overwallvpn.com/go/strongvpn)（首选推荐）：在安卓手机上使用效果非常好，没有经验的新手也可以轻松上手。与其它软件相比，StrongVPN的速度最快，而且还可以解锁Netflix等流媒体，支持P2P文件共享下载，并支持多种设备。不过使用StrongVPN付费价格可能略高。
 > - 2.[PureVPN](https://overwallvpn.com/go/purevpn)：每月最低只需$2美元，是市面上价格最便宜的VPN软件之一。PureVPN不但可以提供专用IP，而且支持多重隐私保护功能，包括使用隧道拆分技术，同时还支持终止开关功能，当连接中断时可以自动停止流量以免数据泄露。
-> - 3.[Surfshark](https://overwallvpn.com/go/surfshark)：特别适合在多设备上使用。与其它VPN不同的是，Surfshark不限制设备数量，只需要一个账户就可以在多个设备上使用。不仅如此，Surfshark支持高级的功能，如常规端口隐藏、可靠且快速的连接速度，能够访问各种流媒体，同时还有安卓、iOS、Windows、Mac、Linux等多种版本供用户使用。每月只需要花费$2.49，即可享受到优质的翻墙VPN服务。
+> - 3.[NordVPN](https://overwallvpn.com/go/nordvpn)：特别适合在多设备上使用。与其它VPN不同的是，Surfshark不限制设备数量，只需要一个账户就可以在多个设备上使用。不仅如此，Surfshark支持高级的功能，如常规端口隐藏、可靠且快速的连接速度，能够访问各种流媒体，同时还有安卓、iOS、Windows、Mac、Linux等多种版本供用户使用。每月只需要花费$2.49，即可享受到优质的翻墙VPN服务。
 
 另外极客常用的翻墙姿势有两种：  
 1. **付费机场 + 通用客户端**：在网上找口碑还行的机场（别在公开平台问“求推荐”，容易被和谐，也容易踩广告坑），然后在安卓上装兼容的通用客户端，比如支持 V2Ray/Trojan 的 App，导入订阅链接。一旦配置好，后续就只需要点一下“连接”，不需要天天折腾。  
@@ -58,21 +58,21 @@ PureVPN的安全性也非常出色，它采用目前行业最高级别的AES 256
 
 总之，PureVPN提供了大量优质的功能和服务，使其成为了在中国非常热门的VPN之一。无论是翻墙上网、下载P2P和解锁流媒体，它都有很好的表现。尤其是在服务器节点的数量和兼容性方面，PureVPN也非常出色。
 
-### 3.[Surfshark](https://overwallvpn.com/go/surfshark) – 功能齐全，不限制设备数量的翻墙VPN
+### 3.[NordVPN](https://overwallvpn.com/go/nordvpn) – 功能齐全，不限制设备数量的翻墙VPN
 
-Surfshark是一款稳定优质的安卓手机VPN服务商，在2018年成立以来发展迅速。该VPN服务商采用了自己独有的翻墙功能，分布在全球65个国家和地区超过3200台服务器，可以为安卓手机VPN用户提供稳定、快速的翻墙服务。
+NordVPN是一款稳定优质的安卓手机VPN服务商，在2018年成立以来发展迅速。该VPN服务商采用了自己独有的翻墙功能，分布在全球65个国家和地区超过3200台服务器，可以为安卓手机VPN用户提供稳定、快速的翻墙服务。
 
-![Surfshark安卓VPN下载](https://overwallvpn.com/wp-content/uploads/2025/01/surfshark-android-homepage.jpg)
+![NordVPN安卓VPN下载](https://overwallvpn.com/wp-content/uploads/2025/12/nordvpn-android-vpn.jpg)
 
-此外，Surfshark也提供了简单易用的APP客户端，适用于不同的设备，包括Windows电脑、Linux电脑、MacOS电脑、iPhone手机、iPad平板电脑等，并且还有专用的插件，可以在浏览器、智能电视、游戏机等设备上使用。重要的是，Surfshark不限制设备数，一个付费帐号就可以在无数台设备上同时登录使用，而且价格便宜，每月仅需2.49美金，性价比非常高。
+此外，NordVPN也提供了简单易用的APP客户端，适用于不同的设备，包括Windows电脑、Linux电脑、MacOS电脑、iPhone手机、iPad平板电脑等，并且还有专用的插件，可以在浏览器、智能电视、游戏机等设备上使用。重要的是，NordVPN不限制设备数，一个付费帐号就可以在无数台设备上同时登录使用，而且价格便宜，每月仅需2.49美金，性价比非常高。
 
-Surfshark的VPN功能和特色方面，采用了自主研发的专门用于翻墙的Camouflage模式，可以很好地伪装用户流量，让GFW无法检测到用户正在使用VPN，从而帮助中国用户绕过封锁实现科学上网。Surfshark还提供了中文官网和中文APP客户端，方便中国用户访问和使用。此外，它在APP客户端中内置了拆分隧道的功能，确保安卓翻墙用户在访问海外网站的同时，不会影响访问国内网站和APP的速度。
+NordVPN的VPN功能和特色方面，采用了自主研发的专门用于翻墙的Camouflage模式，可以很好地伪装用户流量，让GFW无法检测到用户正在使用VPN，从而帮助中国用户绕过封锁实现科学上网。NordVPN还提供了中文官网和中文APP客户端，方便中国用户访问和使用。此外，它在APP客户端中内置了拆分隧道的功能，确保安卓翻墙用户在访问海外网站的同时，不会影响访问国内网站和APP的速度。
 
-如果想翻墙访问在中国被封锁的网站，例如Gmail、Facebook、Youtube、Twitter、Instagram、Reddit、Telegram等，可以选择位于中国大陆周边香港、台湾、新加坡、日本、韩国、美国等地区的服务器；如果想观看Netflix、BBC iPlayer、HBO、Hulu等平台的影视节目，只需选择目标国家的服务器节点即可。例如，想观看Netflix美国、英国、法国、德国节目，只需选择Surfshark位于这些国家的服务器节点，然后就可以无限制地观看流媒体了。
+如果想翻墙访问在中国被封锁的网站，例如Gmail、Facebook、Youtube、Twitter、Instagram、Reddit、Telegram等，可以选择位于中国大陆周边香港、台湾、新加坡、日本、韩国、美国等地区的服务器；如果想观看Netflix、BBC iPlayer、HBO、Hulu等平台的影视节目，只需选择目标国家的服务器节点即可。例如，想观看Netflix美国、英国、法国、德国节目，只需选择NordVPN位于这些国家的服务器节点，然后就可以无限制地观看流媒体了。
 
-Surfshark为用户提供了强大的安全保护功能，包括采用行业领先的AES-256位加密技术，支持多种VPN协议，实行零日志策略，并内置了Kill Switch终止开关、广告拦截、IP/DNS泄漏保护等高级功能。通过使用Surfshark，可以让安卓VPN用户始终保持匿名状态，在网上保护用户的隐私安全。
+NordVPN为用户提供了强大的安全保护功能，包括采用行业领先的AES-256位加密技术，支持多种VPN协议，实行零日志策略，并内置了Kill Switch终止开关、广告拦截、IP/DNS泄漏保护等高级功能。通过使用NordVPN，可以让安卓VPN用户始终保持匿名状态，在网上保护用户的隐私安全。
 
-Surfshark的价格相当优惠，每月仅需2.49美金，支持30天退款保证。同时，Surfshark提供了7×24小时在线的客户支持，提供帮助和解决任何问题。
+NordVPN的价格相当优惠，每月仅需2.49美金，支持30天退款保证。同时，NordVPN提供了7×24小时在线的客户支持，提供帮助和解决任何问题。
 
 ## 安卓系统自带的VPN设置能用吗？
 
